@@ -64,7 +64,7 @@
 <h3>📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanObando&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Juan-David-Obando-Novoa&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
