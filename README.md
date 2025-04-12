@@ -6,12 +6,13 @@
 </p>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/juan-david-obando-novoa-b775ab325/" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="height: 40px;" />
-</a>
-<a href="https://juan-david-obando-novoa.github.io/JuanDavidObando.github.io/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" style="height: 40px;" />
-</a>
+  <a href="https://www.linkedin.com/in/juan-david-obando-novoa-b775ab325/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="height: 40px; margin: 0 10px;" />
+  </a>
+
+  <a href="https://juan-david-obando-novoa.github.io/JuanDavidObando.github.io/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/84/84472.png" alt="Website" style="height: 40px; margin: 0 10px;" />
+  </a>
 
 </div>
 
