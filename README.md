@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Juan Obando</h1>
+<h1 align="center">Hi, I'm Juan Obando 👋,</h1>
 
 <p align="center">
   👨‍💻 Software Engineer | 🎓 Universidad de los Andes<br>
