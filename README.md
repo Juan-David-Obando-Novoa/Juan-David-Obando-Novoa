@@ -11,7 +11,7 @@
   </a>
 
   <a href="https://juan-david-obando-novoa.github.io/JuanDavidObando.github.io/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/84/84472.png" alt="Website" style="height: 40px; margin: 0 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/84/84472.png" alt="Portafolio" style="height: 40px; margin: 0 10px;" />
   </a>
 
 </div>
