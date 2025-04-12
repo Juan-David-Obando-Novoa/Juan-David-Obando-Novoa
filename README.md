@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juan Obando 👋,</h1>
 
 <p align="center">
-  👨‍💻 Software Engineer | 🎓 Universidad de los Andes<br>
+  👨‍💻 Systems and Computing Engineer | 🎓 Universidad de los Andes<br>
   Especializado en desarrollo multiplataforma, arquitecturas modernas y soluciones escalables.
 </p>
 
