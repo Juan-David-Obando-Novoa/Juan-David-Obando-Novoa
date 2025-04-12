@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://juan-david-obando-novoa.github.io/JuanDavidObando.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Page-🌐_Click_Here-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Visit_My_Page-🌐_Click_Here-black?style=for-the-badge" />
   </a>
 
 
