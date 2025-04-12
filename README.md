@@ -9,6 +9,10 @@
   <a href="https://www.linkedin.com/in/juan-david-obando-novoa-b775ab325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://juan-david-obando-novoa.github.io/JuanDavidObando.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Personal-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a 
 </div>
 
 ---
