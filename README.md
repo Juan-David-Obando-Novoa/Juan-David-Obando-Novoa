@@ -6,10 +6,10 @@
 </p>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/juan-david-obando-novoa-b775ab325/" target="_blank" style="text-decoration: none; display: inline-block;">
-  <img src="https://img.shields.io/badge/LinkedIn_Profile-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  
-  </a><a href="https://juan-david-obando-novoa.github.io/JuanDavidObando.github.io/" target="_blank" style="text-decoration: none; display: inline-block;">
+<a href="https://www.linkedin.com/in/juan-david-obando-novoa-b775ab325/" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="height: 40px;" />
+</a>
+<a href="https://juan-david-obando-novoa.github.io/JuanDavidObando.github.io/" target="_blank" style="text-decoration: none; display: inline-block;">
     <img src="https://img.shields.io/badge/MySite-Online-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </div>
