@@ -77,13 +77,13 @@
 ---
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/Juan-David-Obando-Novoa](https://github.com/Juan-David-Obando-Novoa/Juan-David-Obando-Novoa)<br>
-2. ✌️ Released [Primera versión](https://github.com/Juan-David-Obando-Novoa/JuanDavidObando.github.io/releases/tag/V1.0.0) in [Juan-David-Obando-Novoa/JuanDavidObando.github.io](https://github.com/Juan-David-Obando-Novoa/JuanDavidObando.github.io)<br>
-3. ⬆️ Pushed 2 commit(s) to [Juan-David-Obando-Novoa/JuanDavidObando.github.io](https://github.com/Juan-David-Obando-Novoa/JuanDavidObando.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/JuanDavidObando.github.io](https://github.com/Juan-David-Obando-Novoa/JuanDavidObando.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/JuanDavidObando.github.io](https://github.com/Juan-David-Obando-Novoa/JuanDavidObando.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/Juan-David-Obando-Novoa](https://github.com/Juan-David-Obando-Novoa/Juan-David-Obando-Novoa)<br>
+3. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/Juan-David-Obando-Novoa](https://github.com/Juan-David-Obando-Novoa/Juan-David-Obando-Novoa)<br>
+4. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/Juan-David-Obando-Novoa](https://github.com/Juan-David-Obando-Novoa/Juan-David-Obando-Novoa)<br>
+5. ⬆️ Pushed 1 commit(s) to [Juanescool1Mejor-Organizacion-del-Mundo/.github](https://github.com/Juanescool1Mejor-Organizacion-del-Mundo/.github)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 17th, 2025, 5:51:33 AM
+Last Updated: Thursday, April 17th, 2025, 12:16:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
