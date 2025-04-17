@@ -75,6 +75,11 @@
 </p>
 
 ---
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+---
 
 <p align="center">
   📫 Feel free to reach out — I'm always open to collaboration and learning opportunities!
