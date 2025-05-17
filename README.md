@@ -76,14 +76,14 @@
 
 ---
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Juan-David-Obando-Novoa/Lab6](https://github.com/Juan-David-Obando-Novoa/Lab6)<br>
-2. ⬆️ Pushed 3 commit(s) to [Moviles-G45/KotlinApp](https://github.com/Moviles-G45/KotlinApp)<br>
-3. 🎉 Merged PR [#37](https://github.com/Moviles-G45/KotlinApp/pull/37) in [Moviles-G45/KotlinApp](https://github.com/Moviles-G45/KotlinApp)<br>
-4. 💪 Opened PR [#37](https://github.com/Moviles-G45/KotlinApp/pull/37) in [Moviles-G45/KotlinApp](https://github.com/Moviles-G45/KotlinApp)<br>
-5. ⬆️ Pushed 2 commit(s) to [Moviles-G45/KotlinApp](https://github.com/Moviles-G45/KotlinApp)<br>
+1. ⬆️ Pushed 1 commit(s) to [Moviles-G45/KotlinApp](https://github.com/Moviles-G45/KotlinApp)<br>
+2. ⬆️ Pushed 2 commit(s) to [Moviles-G45/Backend](https://github.com/Moviles-G45/Backend)<br>
+3. ⬆️ Pushed 1 commit(s) to [Moviles-G45/KotlinApp](https://github.com/Moviles-G45/KotlinApp)<br>
+4. 📔 Created new repository [Juan-David-Obando-Novoa/Lab6](https://github.com/Juan-David-Obando-Novoa/Lab6)<br>
+5. ⬆️ Pushed 3 commit(s) to [Moviles-G45/KotlinApp](https://github.com/Moviles-G45/KotlinApp)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 16th, 2025, 1:24:24 PM
+Last Updated: Saturday, May 17th, 2025, 12:44:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
