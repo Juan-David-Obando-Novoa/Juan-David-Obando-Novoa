@@ -79,7 +79,7 @@
 1. 🔱 Forked [Juan-David-Obando-Novoa/azure-container-apps-mcp-sample](https://github.com/Juan-David-Obando-Novoa/azure-container-apps-mcp-sample) from [anthonychu/azure-container-apps-mcp-sample](https://github.com/anthonychu/azure-container-apps-mcp-sample)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 27th, 2025, 1:25:04 PM
+Last Updated: Thursday, August 28th, 2025, 12:43:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
