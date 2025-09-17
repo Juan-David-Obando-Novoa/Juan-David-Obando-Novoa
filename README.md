@@ -76,13 +76,14 @@
 
 ---
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/Proyect-0.1](https://github.com/Juan-David-Obando-Novoa/Proyect-0.1)<br>
-2. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/Proyect-0.1](https://github.com/Juan-David-Obando-Novoa/Proyect-0.1)<br>
-3. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/Proyect-0.1](https://github.com/Juan-David-Obando-Novoa/Proyect-0.1)<br>
-4. 📔 Created new repository [Juan-David-Obando-Novoa/Proyect-0.1](https://github.com/Juan-David-Obando-Novoa/Proyect-0.1)<br>
+1. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/juan-david-obando-novoa.github.io](https://github.com/Juan-David-Obando-Novoa/juan-david-obando-novoa.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/juan-david-obando-novoa.github.io](https://github.com/Juan-David-Obando-Novoa/juan-david-obando-novoa.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/juan-david-obando-novoa.github.io](https://github.com/Juan-David-Obando-Novoa/juan-david-obando-novoa.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/Proyect-0.1](https://github.com/Juan-David-Obando-Novoa/Proyect-0.1)<br>
+5. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/Proyect-0.1](https://github.com/Juan-David-Obando-Novoa/Proyect-0.1)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 16th, 2025, 1:25:26 PM
+Last Updated: Wednesday, September 17th, 2025, 12:42:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
