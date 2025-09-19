@@ -76,14 +76,14 @@
 
 ---
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/juan-david-obando-novoa.github.io](https://github.com/Juan-David-Obando-Novoa/juan-david-obando-novoa.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/juan-david-obando-novoa.github.io](https://github.com/Juan-David-Obando-Novoa/juan-david-obando-novoa.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/juan-david-obando-novoa.github.io](https://github.com/Juan-David-Obando-Novoa/juan-david-obando-novoa.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/Proyect-0.1](https://github.com/Juan-David-Obando-Novoa/Proyect-0.1)<br>
-5. ⬆️ Pushed 1 commit(s) to [Juan-David-Obando-Novoa/Proyect-0.1](https://github.com/Juan-David-Obando-Novoa/Proyect-0.1)<br>
+1. ⭐ Starred [Juan-David-Obando-Novoa/vecindario-amigo-front](https://github.com/Juan-David-Obando-Novoa/vecindario-amigo-front)<br>
+2. 🔱 Forked [Juan-David-Obando-Novoa/vecindario-amigo-front](https://github.com/Juan-David-Obando-Novoa/vecindario-amigo-front) from [gaviotica911/vecindario-amigo-front](https://github.com/gaviotica911/vecindario-amigo-front)<br>
+3. ⭐ Starred [Juan-David-Obando-Novoa/Vecindario-amigo](https://github.com/Juan-David-Obando-Novoa/Vecindario-amigo)<br>
+4. 🔱 Forked [Juan-David-Obando-Novoa/Vecindario-amigo](https://github.com/Juan-David-Obando-Novoa/Vecindario-amigo) from [gaviotica911/Vecindario-amigo](https://github.com/gaviotica911/Vecindario-amigo)<br>
+5. ⭐ Starred [Juan-David-Obando-Novoa/Parcial2](https://github.com/Juan-David-Obando-Novoa/Parcial2)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 19th, 2025, 2:14:15 AM
+Last Updated: Friday, September 19th, 2025, 12:17:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
