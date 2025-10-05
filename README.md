@@ -76,14 +76,14 @@
 
 ---
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Juan-David-Obando-Novoa/vecindario-amigo-front](https://github.com/Juan-David-Obando-Novoa/vecindario-amigo-front)<br>
-2. 🔱 Forked [Juan-David-Obando-Novoa/vecindario-amigo-front](https://github.com/Juan-David-Obando-Novoa/vecindario-amigo-front) from [gaviotica911/vecindario-amigo-front](https://github.com/gaviotica911/vecindario-amigo-front)<br>
-3. ⭐ Starred [Juan-David-Obando-Novoa/Vecindario-amigo](https://github.com/Juan-David-Obando-Novoa/Vecindario-amigo)<br>
-4. 🔱 Forked [Juan-David-Obando-Novoa/Vecindario-amigo](https://github.com/Juan-David-Obando-Novoa/Vecindario-amigo) from [gaviotica911/Vecindario-amigo](https://github.com/gaviotica911/Vecindario-amigo)<br>
-5. ⭐ Starred [Juan-David-Obando-Novoa/Parcial2](https://github.com/Juan-David-Obando-Novoa/Parcial2)<br>
+1. 🤝 Became collaborator on [m-arizaj/LLMs-metrics-catalog](https://github.com/m-arizaj/LLMs-metrics-catalog)<br>
+2. ⭐ Starred [Juan-David-Obando-Novoa/vecindario-amigo-front](https://github.com/Juan-David-Obando-Novoa/vecindario-amigo-front)<br>
+3. 🔱 Forked [Juan-David-Obando-Novoa/vecindario-amigo-front](https://github.com/Juan-David-Obando-Novoa/vecindario-amigo-front) from [gaviotica911/vecindario-amigo-front](https://github.com/gaviotica911/vecindario-amigo-front)<br>
+4. ⭐ Starred [Juan-David-Obando-Novoa/Vecindario-amigo](https://github.com/Juan-David-Obando-Novoa/Vecindario-amigo)<br>
+5. 🔱 Forked [Juan-David-Obando-Novoa/Vecindario-amigo](https://github.com/Juan-David-Obando-Novoa/Vecindario-amigo) from [gaviotica911/Vecindario-amigo](https://github.com/gaviotica911/Vecindario-amigo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 5th, 2025, 2:22:03 AM
+Last Updated: Sunday, October 5th, 2025, 12:15:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
