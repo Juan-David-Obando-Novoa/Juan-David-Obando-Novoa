@@ -78,12 +78,12 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [m-arizaj/LLMsThesisDocument](https://github.com/m-arizaj/LLMsThesisDocument)<br>
 2. ⬆️ Pushed undefined commit(s) to [m-arizaj/LLMsThesisDocument](https://github.com/m-arizaj/LLMsThesisDocument)<br>
-3. ⬆️ Pushed undefined commit(s) to [m-arizaj/LLMs-metrics-catalog](https://github.com/m-arizaj/LLMs-metrics-catalog)<br>
+3. ⬆️ Pushed undefined commit(s) to [m-arizaj/LLMsThesisDocument](https://github.com/m-arizaj/LLMsThesisDocument)<br>
 4. ⬆️ Pushed undefined commit(s) to [m-arizaj/LLMs-metrics-catalog](https://github.com/m-arizaj/LLMs-metrics-catalog)<br>
-5. 🤝 Became collaborator on [m-arizaj/LLMsThesisDocument](https://github.com/m-arizaj/LLMsThesisDocument)<br>
+5. ⬆️ Pushed undefined commit(s) to [m-arizaj/LLMs-metrics-catalog](https://github.com/m-arizaj/LLMs-metrics-catalog)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 10th, 2025, 2:30:09 AM
+Last Updated: Wednesday, December 10th, 2025, 12:20:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
