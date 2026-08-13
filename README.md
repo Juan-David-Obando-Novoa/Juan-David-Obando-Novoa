@@ -24,10 +24,10 @@ I build the layer between raw data and business decisions: SQL models over CRM a
 **[Google Cloud Analytical Pipeline](#)** — `GCP Dataflow` `BigQuery` `Python`
 Scalable data architecture that consolidates heterogeneous sources into centralized analytical reports. Covers ETL orchestration and the BigQuery target model.
 
-**[UNFPA Text Analytics Platform](#)** — `Python` `FastAPI` `React` `scikit-learn`
+**[UNFPA Text Analytics Platform](https://github.com/Juan-David-Obando-Novoa/Proyecto1BI.git)** — `Python` `FastAPI` `React` `scikit-learn`
 Automatic classification of citizen opinions mapped to the UN Sustainable Development Goals. Naive Bayes + TF-IDF model with an incremental retraining flow served through a REST API.
 
-**[BudgetBuddy](#)** — `Kotlin` `FastAPI` `BigQuery` `Docker`
+**[BudgetBuddy]((https://github.com/Moviles-G45)** — `Kotlin` `FastAPI` `BigQuery` `Docker`
 Personal finance mobile app on a client-server architecture with a containerized cloud backend, access management and an ETL pipeline into BigQuery for transaction analytics.
 
 **[Vecindario Amigo](https://github.com/Juan-David-Obando-Novoa/Vecindario-amigo.git)** — `Java` `Spring Boot` `Angular` `PostgreSQL`
