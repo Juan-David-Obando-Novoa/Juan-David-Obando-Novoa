@@ -30,7 +30,7 @@ Automatic classification of citizen opinions mapped to the UN Sustainable Develo
 **[BudgetBuddy](#)** — `Kotlin` `FastAPI` `BigQuery` `Docker`
 Personal finance mobile app on a client-server architecture with a containerized cloud backend, access management and an ETL pipeline into BigQuery for transaction analytics.
 
-**[Vecindario Amigo](#)** — `Java` `Spring Boot` `Angular` `PostgreSQL`
+**[Vecindario Amigo](https://github.com/Juan-David-Obando-Novoa/Vecindario-amigo.git)** — `Java` `Spring Boot` `Angular` `PostgreSQL`
 Full-stack community application on a layered architecture: authentication, role-based permissions and security controls over profile sharing.
 
 <!-- Reemplaza cada (#) por la URL real del repositorio.
