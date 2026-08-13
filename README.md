@@ -27,7 +27,7 @@ Scalable data architecture that consolidates heterogeneous sources into centrali
 **[UNFPA Text Analytics Platform](https://github.com/Juan-David-Obando-Novoa/Proyecto1BI.git)** — `Python` `FastAPI` `React` `scikit-learn`
 Automatic classification of citizen opinions mapped to the UN Sustainable Development Goals. Naive Bayes + TF-IDF model with an incremental retraining flow served through a REST API.
 
-**[BudgetBuddy]((https://github.com/Moviles-G45)** — `Kotlin` `FastAPI` `BigQuery` `Docker`
+**[BudgetBuddy](https://github.com/Moviles-G45)** — `Kotlin` `FastAPI` `BigQuery` `Docker`
 Personal finance mobile app on a client-server architecture with a containerized cloud backend, access management and an ETL pipeline into BigQuery for transaction analytics.
 
 **[Vecindario Amigo](https://github.com/Juan-David-Obando-Novoa/Vecindario-amigo.git)** — `Java` `Spring Boot` `Angular` `PostgreSQL`
