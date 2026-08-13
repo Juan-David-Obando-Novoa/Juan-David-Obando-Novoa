@@ -1,93 +1,74 @@
-<h1 align="center">Hi, I'm Juan Obando 👋,</h1>
+<h1 align="center">Juan David Obando Novoa</h1>
 
 <p align="center">
-  👨‍💻 Systems and Computing Engineer | 🎓 Universidad de los Andes<br>
-  Especializado en desarrollo multiplataforma, arquitecturas modernas y soluciones escalables.
+  Data &amp; Analytics Engineer in the making · Systems and Computing Engineering @ Universidad de los Andes<br>
+  Digital Intern at Sanofi (COPAC Digital LATAM) — building data pipelines, dashboards and process automation for pharma.
 </p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/juan-david-obando-novoa-b775ab325/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="height: 40px; margin: 0 10px;" />
-  </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://juan-david-obando-novoa.github.io/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/929/929564.png" alt="My Website" style="height: 40px; margin: 0 10px;" /></a>
-
-
-</div>
-
-
-
----
-
-<h3>🧠 Core Skills</h3>
-
-- Desarrollo de aplicaciones móviles con **Android Studio** (Kotlin & Java)
-- Arquitectura limpia con **MVVM** y patrones de diseño
-- Desarrollo web con tecnologías modernas como **React**, **Angular** y **Django**
-- Integración de APIs REST, autenticación Firebase y bases de datos SQL/NoSQL
-- Automatización de procesos y consumo de servicios en la nube
-
----
-
-<h3>🖥️ Programming Languages</h3>
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
----
-
-<h3>📚 Frameworks & Libraries</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
----
-
-<h3>🛠️ Tools & Platforms</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-<h3>📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juan-David-Obando-Novoa&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <a href="https://www.linkedin.com/in/juan-david-obando-novoa-b775ab325/">LinkedIn</a> ·
+  <a href="https://juan-david-obando-novoa.github.io/">Portfolio</a> ·
+  <a href="mailto:juandavidobandojr@gmail.com">Email</a>
 </p>
 
 ---
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Juan-David-Obando-Novoa/Pizza](https://github.com/Juan-David-Obando-Novoa/Pizza)<br>
-2. ⬆️ Pushed undefined commit(s) to [m-arizaj/LLMsThesisDocument](https://github.com/m-arizaj/LLMsThesisDocument)<br>
-3. ⬆️ Pushed undefined commit(s) to [m-arizaj/LLMs-metrics-catalog](https://github.com/m-arizaj/LLMs-metrics-catalog)<br>
-4. ⬆️ Pushed undefined commit(s) to [m-arizaj/LLMs-metrics-catalog](https://github.com/m-arizaj/LLMs-metrics-catalog)<br>
-5. ⬆️ Pushed undefined commit(s) to [m-arizaj/LLMs-metrics-catalog](https://github.com/m-arizaj/LLMs-metrics-catalog)<br>
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 16th, 2026, 1:43:06 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+
+### What I work on
+
+I build the layer between raw data and business decisions: SQL models over CRM and transactional systems, ETL/ELT pipelines on the cloud, Power BI reporting, and automations that remove manual steps from corporate processes. My day-to-day runs in a regulated industry (pharmaceutical), which means data quality, traceability and documentation are part of the job, not an afterthought.
+
+---
+
+### Featured projects
+
+**[Google Cloud Analytical Pipeline](#)** — `GCP Dataflow` `BigQuery` `Python`
+Scalable data architecture that consolidates heterogeneous sources into centralized analytical reports. Covers ETL orchestration and the BigQuery target model.
+
+**[UNFPA Text Analytics Platform](#)** — `Python` `FastAPI` `React` `scikit-learn`
+Automatic classification of citizen opinions mapped to the UN Sustainable Development Goals. Naive Bayes + TF-IDF model with an incremental retraining flow served through a REST API.
+
+**[BudgetBuddy](#)** — `Kotlin` `FastAPI` `BigQuery` `Docker`
+Personal finance mobile app on a client-server architecture with a containerized cloud backend, access management and an ETL pipeline into BigQuery for transaction analytics.
+
+**[Vecindario Amigo](#)** — `Java` `Spring Boot` `Angular` `PostgreSQL`
+Full-stack community application on a layered architecture: authentication, role-based permissions and security controls over profile sharing.
+
+<!-- Reemplaza cada (#) por la URL real del repositorio.
+     Si un repo no tiene README propio, arréglalo antes de enlazarlo:
+     un enlace a un repo vacío resta más de lo que suma. -->
+
+---
+
+### Toolbox
+
+**Data & Analytics**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Cloud & Infrastructure**
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Business Platforms**
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
 <p align="center">
-  📫 Feel free to reach out — I'm always open to collaboration and learning opportunities!
+  <sub>Open to conversations about data engineering, analytics and digital transformation.</sub>
 </p>
