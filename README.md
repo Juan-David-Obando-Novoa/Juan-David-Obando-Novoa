@@ -2,7 +2,7 @@
 
 <p align="center">
   Systems and Computing Engineering @ Universidad de los Andes<br>
-  Backend &amp; data engineering — I build the services, pipelines and automations that production systems run on.
+  Software &amp; data engineering — I build the services, pipelines and automations that production systems run on.
 </p>
 
 <p align="center">
